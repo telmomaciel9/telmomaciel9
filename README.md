@@ -26,16 +26,16 @@ I was born and raised in Braga 🇵🇹, where I currently live and study. I'm a
 
 ## 🎓 My university projects and exercises.
 
-| 1<sup>st</sup> year - 1<sup>st</sup> semester | | |
-| --- | :---: | :---: |
-| Programação Funcional | [Exercises](https://github.com/telmomaciel9/PF) | - |
-| Laboratórios de Informática I | - | [Project](https://github.com/telmomaciel9/LI1) |
+| 1<sup>st</sup> year - 1<sup>st</sup> semester |  |
+| --- | :---: |
+| Programação Funcional | [Exercises](https://github.com/telmomaciel9/PF) | 
+| Laboratórios de Informática I | [Project](https://github.com/telmomaciel9/LI1) |
 
 
-| 1<sup>st</sup> year - 2<sup>nd</sup> semester | | |
-| --- | :---: | :---: |
-| Programação Imperativa | [Exercises](https://github.com/telmomaciel9/PI) | - |
-| Laboratórios de Informática II | - | [Project](https://github.com/telmomaciel9/LI2) |
+| 1<sup>st</sup> year - 2<sup>nd</sup> semester |  |
+| --- | :---: |
+| Programação Imperativa | [Exercises](https://github.com/telmomaciel9/PI)  |
+| Laboratórios de Informática II | [Project](https://github.com/telmomaciel9/LI2) |
 
 <!--
 ## My other projects
