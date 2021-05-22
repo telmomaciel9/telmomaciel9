@@ -38,24 +38,16 @@ I was born and raised in Braga 🇵🇹, where I currently live and study. I'm a
 | Laboratórios de Informática II | - | [Project](https://github.com/telmomaciel9/LI2) |
 
 <!--
-## 🧩 My other projects
+## My other projects
 
-- [**WALL-E**](https://github.com/RisingFisan/WALL-E) - A discord bot written in Python;
-- [**Advent of Code**](https://github.com/RisingFisan/Advent-of-Code) - My solutions to the Advent of Code puzzles.
+- [**Title**](repository) - Description.
 
-## 💻 My programming skills
+## My programming skills
 
 - Python
 - Haskell
 - C
 - Java
-- SQL
-- Rust (just started learning)
-
-Hopefully I can add as many items to this list as possible in the future!
-
-
-**telmomaciel9/telmomaciel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
