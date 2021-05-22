@@ -5,7 +5,7 @@
 [![Email badge](https://img.shields.io/badge/-telmomaciel9-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:telmomaciel9@gmail.com)
 -->
 
-I'm a student of Software Engineering at University of Minho. 
+I'm a student of software engineering at University of Minho. 
 
 <!--
 ## About me
