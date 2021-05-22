@@ -1,4 +1,4 @@
-# Hello there! 
+# Hi there, I'm Telmo! 
 
 <!--
 [![Instagram badge](https://img.shields.io/badge/-@telmo.maciel-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/telmo.maciel/)
@@ -6,6 +6,11 @@
 -->
 
 I'm a student of software engineering at University of Minho. 
+
+### My socials:
+
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <!--
 ## About me
@@ -60,3 +65,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[twitter]: https://twitter.com/telmo_maciel
+[instagram]: https://instagram.com/telmo.maciel
