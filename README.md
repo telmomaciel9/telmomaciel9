@@ -13,8 +13,8 @@ I'm a student of software engineering at University of Minho.
 I was born and raised in Braga 🇵🇹, where I currently live and study. I'm a full-time geek and LEGO lover, with a small passion for writing. 
 -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=black&hide=contribs&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=white&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=nord&hide=contribs&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=nord&hide_border=true)
 
 ## 🎓 My university projects and exercises.
 
