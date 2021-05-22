@@ -14,7 +14,7 @@ I'm a student of software engineering at University of Minho.
 
 <br />
 <br />
-<br />
+
 <!--
 ## About me
 
