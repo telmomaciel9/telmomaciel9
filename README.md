@@ -23,14 +23,14 @@ I'm a student of software engineering at University of Minho.
 
 | 1<sup>st</sup> year - 1<sup>st</sup> semester |  |
 | --- | :---: |
-| Programação Funcional | [Exercises](https://github.com/telmomaciel9/PF) | 
-| Laboratórios de Informática I | [Project](https://github.com/telmomaciel9/LI1) |
+| Programação Funcional | [PF](https://github.com/telmomaciel9/PF) | 
+| Laboratórios de Informática I | [LI1](https://github.com/telmomaciel9/LI1) |
 
 
 | 1<sup>st</sup> year - 2<sup>nd</sup> semester |  |
 | --- | :---: |
-| Programação Imperativa | [Exercises](https://github.com/telmomaciel9/PI)  |
-| Laboratórios de Informática II | [Project](https://github.com/telmomaciel9/LI2) |
+| Programação Imperativa | [PI](https://github.com/telmomaciel9/PI)  |
+| Laboratórios de Informática II | [LI2](https://github.com/telmomaciel9/LI2) |
 
 <!--
 ## My other projects
