@@ -11,7 +11,9 @@ I'm a student of software engineering at University of Minho.
 
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />][LinkedIn]
 
+<br />
 <br />
 <br />
 
@@ -48,3 +50,4 @@ I'm a student of software engineering at University of Minho.
 
 [twitter]: https://twitter.com/telmo_maciel
 [instagram]: https://instagram.com/telmo.maciel
+[LinkedIn]: https://www.linkedin.com/in/telmo-maciel-4242b111a/
