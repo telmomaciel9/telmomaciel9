@@ -34,7 +34,7 @@ I'm a student of software engineering at University of Minho.
 | Programação Imperativa | [PI](https://github.com/telmomaciel9/PI)  |
 | Laboratórios de Informática II | [LI2](https://github.com/telmomaciel9/LI2) |
 
-| 2<sup>nd</sup> year - 1<sup>nd</sup> semester |  |
+| 2<sup>nd</sup> year - 1<sup>st</sup> semester |  |
 | --- | :---: |
 | Algoritmos e Complexidade | [AlgC]()  |
 | Laboratórios de Informática III | [LI3]() |
