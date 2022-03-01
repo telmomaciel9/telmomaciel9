@@ -36,13 +36,13 @@ I'm a student of software engineering at University of Minho.
 
 | 2<sup>nd</sup> year - 1<sup>st</sup> semester |  |
 | --- | :---: |
-| Algoritmos e Complexidade | [AlgC]()  |
+| Algoritmos e Complexidade | [AlgC](https://github.com/telmomaciel9/AlgC)  |
 | Laboratórios de Informática III | [LI3]() |
 
 | 2<sup>nd</sup> year - 2<sup>nd</sup> semester |  |
 | --- | :---: |
-| Programação Orientada aos Objetos | [POO]()  |
-| Sistemas Operativos | [SO]() |
+| Programação Orientada aos Objetos | [POO](https://github.com/telmomaciel9/POO)  |
+| Sistemas Operativos | [SO](https://github.com/telmomaciel9/SO) |
 
 
 
