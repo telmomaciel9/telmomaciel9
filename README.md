@@ -47,7 +47,7 @@ I'm a student of software engineering at University of Minho.
 | --- | :---: |
 | Inteligência Artificial | [IA]()  |
 | Sistemas Distribuidos | [SD]()  |
-| Laboratórios de Informática 4 | [LI4]()  |
+| Laboratórios de Informática IV | [LI4]()  |
 | Comunicação por Computador | [CC]()  |
 | Cálculo de Programas | [CP]()  |
 | Desenvolvimento de Sistemas de Software | [DSS]()  |
