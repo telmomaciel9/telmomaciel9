@@ -43,7 +43,7 @@ I'm a student of software engineering at University of Minho.
 | Programação Orientada aos Objetos | [POO](https://github.com/telmomaciel9/POO)  |
 | Sistemas Operativos | [SO](https://github.com/telmomaciel9/SO) |
 
-| 3<sup>nd</sup> year - 1<sup>nd</sup> semester |  |
+| 3<sup>rd</sup> year - 1<sup>st</sup> semester |  |
 | --- | :---: |
 | Inteligência Artificial | [IA]()  |
 | Sistemas Distribuidos | [SD]()  |
