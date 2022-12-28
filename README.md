@@ -36,13 +36,23 @@ I'm a student of software engineering at University of Minho.
 
 | 2<sup>nd</sup> year - 1<sup>st</sup> semester |  |
 | --- | :---: |
-| Algoritmos e Complexidade | [AlgC](https://github.com/telmomaciel9/AlgC)  |
 | Laboratórios de Informática III | [LI3]() |
 
 | 2<sup>nd</sup> year - 2<sup>nd</sup> semester |  |
 | --- | :---: |
 | Programação Orientada aos Objetos | [POO](https://github.com/telmomaciel9/POO)  |
 | Sistemas Operativos | [SO](https://github.com/telmomaciel9/SO) |
+
+| 3<sup>nd</sup> year - 1<sup>nd</sup> semester |  |
+| --- | :---: |
+| Inteligência Artificial | [IA]()  |
+| Sistemas Distribuidos | [SD]()  |
+| Laboratórios de Informática 4 | [LI4]()  |
+| Comunicação por Computador | [CC]()  |
+| Cálculo de Programas | [CP]()  |
+| Desenvolvimento de Sistemas de Software | [DSS]()  |
+
+
 
 
 
