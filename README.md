@@ -36,7 +36,7 @@ I'm a student of software engineering at University of Minho.
 
 | 2<sup>nd</sup> year - 1<sup>st</sup> semester |  |
 | --- | :---: |
-| Laboratórios de Informática III | [LI3]() |
+| Laboratórios de Informática III | [LI3](https://github.com/telmomaciel9/LI3) |
 
 | 2<sup>nd</sup> year - 2<sup>nd</sup> semester |  |
 | --- | :---: |
@@ -67,6 +67,8 @@ I'm a student of software engineering at University of Minho.
 - Haskell
 - C
 - Java
+- CSS
+- Html
 
 -->
 
