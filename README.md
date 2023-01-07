@@ -23,7 +23,6 @@ I'm a student of software engineering at University of Minho.
 
 <a href="https://github.com/telmomaciel9"><img src="contributions.svg"></a>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ## My university projects and exercises.
 
