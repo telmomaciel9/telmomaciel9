@@ -21,6 +21,8 @@ I'm a student of software engineering at University of Minho.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=nord&hide=contribs&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=nord&hide_border=true)
 
+<a href="https://github.com/telmomaciel9"><img src="contributions.svg"></a>
+
 ## My university projects and exercises.
 
 | 1<sup>st</sup> year - 1<sup>st</sup> semester |  |
