@@ -48,12 +48,12 @@ I'm a student of software engineering at University of Minho.
 
 | 3<sup>rd</sup> year - 1<sup>st</sup> semester |  |
 | --- | :---: |
-| Inteligência Artificial | [IA]()  |
-| Sistemas Distribuidos | [SD]()  |
+| Inteligência Artificial | [IA](https://github.com/telmomaciel9/IA-Project)  |
+| Sistemas Distribuidos | [SD](https://github.com/telmomaciel9/SD_Project)  |
 | Laboratórios de Informática IV | [LI4]()  |
-| Comunicação por Computador | [CC]()  |
+| Comunicação por Computador | [CC](https://github.com/telmomaciel9/CC)  |
 | Cálculo de Programas | [CP]()  |
-| Desenvolvimento de Sistemas de Software | [DSS]()  |
+| Desenvolvimento de Sistemas de Software | [DSS](https://github.com/telmomaciel9/DSS-PROJECT)  |
 
 
 
