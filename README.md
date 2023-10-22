@@ -53,11 +53,24 @@ I'm a student of software engineering at University of Minho.
 | Sistemas Distribuidos | [SD](https://github.com/telmomaciel9/SD_Project)  |
 | Laboratórios de Informática IV | [LI4]()  |
 | Comunicação por Computador | [CC](https://github.com/telmomaciel9/CC)  |
-| Cálculo de Programas | [CP]()  |
 | Desenvolvimento de Sistemas de Software | [DSS](https://github.com/telmomaciel9/DSS-PROJECT)  |
 
+| 3<sup>rd</sup> year - 2<sup>nd</sup> semester |  |
+| --- | :---: |
+| Aprendizagem e Decisão Inteligentes	 | [ADI]()  |
+| Computação Gráfica | [CG]() |
+| Interface Pessoa-Máquina | [IPM]()  |
+| Engenharia Web | [EngWeb]()  |
+| Processamento de Linguagens	 | [PL]()  |
 
-
+| 4<sup>th</sup> year - 1<sup>st</sup> semester |  |
+| --- | :---: |
+| Computação Paralela	 | [CPar]()  |
+| Métodos Formais em Engenharia de Software | [MFES]() |
+| Dados e Aprendizagem Automática | [DAA]()  |
+| Engenharia de Serviços em Rede | [ESR]()  |
+| Aplicações e Serviços de Computação em Nuvem | [ASCN]()  |
+| Requisitos e Arquiteturas de Software | [RAS]()  |
 
 
 <!--
