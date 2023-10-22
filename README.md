@@ -25,6 +25,8 @@ I'm a student of software engineering at University of Minho.
 ![snake gif](https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake-dark.svg)
 
 
+
+<!--
 ## My university projects and exercises.
 
 | 1<sup>st</sup> year - 1<sup>st</sup> semester |  |
@@ -71,23 +73,36 @@ I'm a student of software engineering at University of Minho.
 | Engenharia de Serviços em Rede | [ESR]()  |
 | Aplicações e Serviços de Computação em Nuvem | [ASCN]()  |
 | Requisitos e Arquiteturas de Software | [RAS]()  |
-
+-->
 
 <!--
 ## My other projects
 
 - [**Title**](repository) - Description.
+-->
 
 ## My programming skills
-
+<!--
 - Python
 - Haskell
 - C
 - Java
 - CSS
 - Html
-
 -->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
+</div>
 
 [twitter]: https://twitter.com/telmo_maciel
 [instagram]: https://instagram.com/telmo.maciel
