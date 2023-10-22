@@ -6,7 +6,7 @@
 -->
 
 I'm a student of software engineering at University of Minho. 
-I'mm currently in my first year of a Master's Degree in Software Engineering.
+I'm currently in my first year of a Master's Degree in Software Engineering.
 
 ### Connect with me:
 
