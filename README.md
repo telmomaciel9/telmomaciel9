@@ -23,7 +23,11 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=nord&hide=contribs&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=nord&hide_border=true)
+
 -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=trues&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true)
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=blue-green&hide=contribs&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=blue-green&hide_border=true)
@@ -118,7 +122,7 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=telmomaciel9&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&hide=contribs&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=telmomaciel9&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=trues&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=telmomaciel9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
