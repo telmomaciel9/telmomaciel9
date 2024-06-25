@@ -1,10 +1,11 @@
+<!--
 # Hi there, I'm Telmo! 
 
 <!--
 [![Instagram badge](https://img.shields.io/badge/-@telmo.maciel-red?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/telmo.maciel/)
 [![Email badge](https://img.shields.io/badge/-telmomaciel9-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:telmomaciel9@gmail.com)
 -->
-
+<!--
 I'm a student of software engineering at University of Minho. 
 I'm currently in my first year of a Master's Degree in Software Engineering.
 
@@ -26,7 +27,7 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 
 -->
 
-
+<!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=blue-green&hide=contribs&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=blue-green&hide_border=true)
 
@@ -39,7 +40,7 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 
 - [**Title**](repository) - Description.
 -->
-
+<!--
 ## My programming skills
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="40" height="40"/>
@@ -55,7 +56,7 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
 </div>
 
-
+-->
 
 <h1 align="left">Hi 👋! My name is Telmo</h1>
 
