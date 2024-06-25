@@ -10,9 +10,10 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!-- [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmo-maciel/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/telmo.maciel/)
+[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](mailto:telmomaciel9@gmail.com)
+
 
 <br />
 <br />
@@ -22,6 +23,9 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=nord&hide=contribs&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=nord&hide_border=true)
 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&theme=blue-green)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&theme=blue-green)
 
 ![snake gif](https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake-dark.svg)
 
@@ -104,7 +108,3 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
   <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" **alt="Haskell" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
 </div>
-
-[twitter]: https://twitter.com/telmo_maciel
-[instagram]: https://instagram.com/telmo.maciel
-[LinkedIn]: https://www.linkedin.com/in/telmo-maciel-4242b111a/
