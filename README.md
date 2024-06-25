@@ -32,7 +32,6 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 ![snake gif](https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-![snake gif](https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
