@@ -19,13 +19,13 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 <br />
 <br />
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=nord&hide=contribs&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=nord&hide_border=true)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=blue-green&hide=contribs&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=blue-green&hide_border=true)
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&theme=blue-green)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&theme=blue-green)
 
 ![snake gif](https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake-dark.svg)
 
