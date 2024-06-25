@@ -29,11 +29,10 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=telmomaciel9&layout=compact&theme=blue-green&hide_border=true)
 
 
-
 ![snake gif](https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-![snake gif](https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
