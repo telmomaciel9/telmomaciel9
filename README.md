@@ -26,7 +26,7 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 
 -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=trues&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=trues&count_private=true&disable_animations=false&theme=blue-green&locale=en&hide_border=true&hide=contribs)
 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=telmomaciel9&count_private=true&show_icons=true&theme=blue-green&hide=contribs&hide_border=true)
