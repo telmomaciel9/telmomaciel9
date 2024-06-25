@@ -128,6 +128,6 @@ I'm currently in my first year of a Master's Degree in Software Engineering.
 
 <br clear="both">
 
-<img src="https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/telmomaciel9/telmomaciel9/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" height="300"/>
 
 ###
