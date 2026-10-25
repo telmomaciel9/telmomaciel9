@@ -2,7 +2,7 @@
 
 <p align="left">
 I'm a final-year Master's student in Software Engineering at the <b>University of Minho</b> (Braga, Portugal).
-I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, and I'm Internal Deputy President of the University of Minho Students' Association (<b>AAUMinho</b>).
+I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, and I'm Internal Deputy President of the University of Minho Students' Union (<b>AAUMinho</b>).
 </p>
 
 <p align="left">
@@ -10,7 +10,7 @@ I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, an
 </p>
 
 <div align="left">
-  <a href="https://telmomaciel9.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111723?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Portfolio" /></a>
+  <a href="https://claude.ai/artifact/5aphdGttapoBRFBnRTzE2p" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111723?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/telmo-maciel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
   <a href="mailto:telmomaciel9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" /></a>
 </div>
@@ -25,7 +25,7 @@ I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, an
 |---|---|---|
 | [**Lista A · Aproximar Futuros**](https://github.com/telmomaciel9/Website-Lista-A-AAUMinho-2026) · [live](https://www.aproximarfuturos.pt/) | Official campaign website for the AAUMinho board elections | React, Vite, Tailwind |
 | [**Start Point**](https://startpoint.pt/) | Website for the largest employment, entrepreneurship and training fair in northern Portugal | WordPress |
-| [**Gata na Praia ’26**](https://github.com/telmomaciel9/gata) | Real-time tournament app: fixtures, results and knockout brackets, with an admin panel | Next.js, TypeScript, Supabase |
+| [**Gata na Praia ’26**](https://github.com/telmomaciel9/gata) | Tournament results app: groups, knockout stage and an admin panel | Next.js, React, Supabase |
 
 ### Academic (University of Minho)
 
@@ -34,9 +34,9 @@ I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, an
 | [**Real-time Text-to-Speech**](https://github.com/telmomaciel9/Projeto-Informatica) | Low-latency TTS with streamed audio, built with **Agentifai** | Python, gRPC, Docker |
 | [**Semantic Official Gazette**](https://github.com/telmomaciel9/RPCW2024-Projeto) | Ontology-based platform to explore Portugal's Diário da República | Flask, GraphDB, RDF |
 | [**PGDRE**](https://github.com/telmomaciel9/ENGWEB2023-Projeto) | OAIS educational resource repository with app, API and auth servers | Node.js, MongoDB, JWT |
-| [**FitTrack**](https://github.com/telmomaciel9/SA-Project) | Native Android app to plan and log workouts | Java, Android, SQLite, Firebase |
+| [**FitTrack**](https://github.com/telmomaciel9/SA-Project) | Android workout tracker using the accelerometer and GPS | Java, Android, Google Maps, Firebase |
 | [**Vintage**](https://github.com/telmomaciel9/POO-Project) | Second-hand marketplace with orders, carriers and returns | Java, MVC, JUnit |
-| [**Intelligent Data Analysis**](https://github.com/telmomaciel9/ADI-Project) | ML pipelines for accident severity and factory productivity | KNIME, Random Forest, MLP |
+| [**Machine learning with KNIME**](https://github.com/telmomaciel9/ADI-Project) | Regression and classification on road accident and factory productivity data | KNIME, decision trees, neural networks |
 
 ---
 
