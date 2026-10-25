@@ -10,7 +10,7 @@ I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, an
 </p>
 
 <div align="left">
-  <a href="https://claude.ai/artifact/5aphdGttapoBRFBnRTzE2p" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111723?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Portfolio" /></a>
+  <a href="https://telmomaciel9.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111723?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/telmo-maciel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>
   <a href="mailto:telmomaciel9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Email" /></a>
 </div>
