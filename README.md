@@ -2,7 +2,7 @@
 
 <p align="left">
 I'm a final-year Master's student in Software Engineering at the <b>University of Minho</b> (Braga, Portugal).
-I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, and I'm Internal Deputy President of the University of Minho Students' Union (<b>AAUMinho</b>).
+I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, and I'm Internal Deputy President of the University of Minho Students' Association (<b>AAUMinho</b>).
 </p>
 
 <p align="left">
