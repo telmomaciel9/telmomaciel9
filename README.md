@@ -25,7 +25,7 @@ I build small web apps, produce live esports broadcasts for <b>RTP Arena</b>, an
 |---|---|---|
 | [**Lista A · Aproximar Futuros**](https://github.com/telmomaciel9/Website-Lista-A-AAUMinho-2026) · [live](https://www.aproximarfuturos.pt/) | Official campaign website for the AAUMinho board elections | React, Vite, Tailwind |
 | [**Start Point**](https://startpoint.pt/) | Website for the largest employment, entrepreneurship and training fair in northern Portugal | WordPress |
-| [**Gata na Praia ’26**](https://github.com/telmomaciel9/gata) | Tournament results app: groups, knockout stage and an admin panel | Next.js, React, Supabase |
+| [**Live Results Platform**](https://github.com/telmomaciel9/Plataforma-de-Resultados) · [live](https://plataforma-de-resultados.vercel.app) | Real-time results for sports competitions, used at Gata na Praia 2026 (27 teams, 81 matches); 160+ tests and CI | Next.js, TypeScript, Supabase |
 
 ### Academic (University of Minho)
 
